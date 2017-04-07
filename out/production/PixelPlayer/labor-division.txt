@@ -1,0 +1,35 @@
+﻿Division of Labor and File Breakdown
+
+
+Front-End:
+The GUI was written by Shannon Brown. She also created all of the images for the buttons and welcome screen.
+
+
+Java Files:
+PixelPlayerGUI.java
+PlayPanel.java
+WelcomePanel.java
+
+
+Image Files:
+Black.jpg
+Blue.jpg
+Green.jpg
+Pink.jpg
+Yellow.jpg
+PixelPlayerIntro.png
+
+
+Back-End:
+Adri and Caitlin worked together on the back-end code. Caitlin was in charge of primarily getting the audio to work. Adri worked on Pixel.java. They worked together, to debug.
+
+
+Java Files:
+Pixel.java
+PixelPlayer.java
+StdAudio.java
+Tone.java
+
+
+Coming Together:
+As a team, we came together to connect the front end and back end code. We stuck to the initial labor plan we had created and met multiple times to debug and test our code together.
